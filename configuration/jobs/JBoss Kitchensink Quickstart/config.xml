@@ -28,7 +28,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>https://github.com/rafaeltuelho/jboss-kitchensink</url>
+          <url>http://gogs-ci-cd.apps.example.com/gogsadmin/jboss-kitchensink.git</url>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
